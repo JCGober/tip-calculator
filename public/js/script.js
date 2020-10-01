@@ -1,8 +1,8 @@
 
 // Variables for Tip Calculator
-let billAmount = document.getElementById("billAmount").value
+let billAmount = $("#billAmount").value
 
-let tipAmount = document.getElementById("tipAmount").value
+let tipAmount = $("#tipAmount").value
 
 let calc = $("#calc")
 
