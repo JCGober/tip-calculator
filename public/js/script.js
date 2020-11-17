@@ -41,7 +41,7 @@ let tipsBtn = $("#tipsBtn")
 
 let advice = $("#advice")
 
-var quotes = ['"A gentleman/woman Always tips"', `"If you don't tip.... You're a jack ass"`, `"If you can't tip don't go out."`, '"Always tip. Always."', `"If you go out on a first date and you don't tip your server... Good luck getting a second one."`, `"Tipping 20% is classy, tipping 15% is required.`, '"Servers live off tips, keep that in mind!"' ]
+var quotes = ['"A gentleman/woman Always tips"', `"If you can't tip don't go out."`, '"Always tip. Always."', `"If you go out on a first date and you don't tip your server... Good luck getting a second one."`, `"Tipping 20% is classy, tipping 15% is required.`, '"Servers live off tips, keep that in mind!"' ]
 
 let div2 = $("<div>")
 
